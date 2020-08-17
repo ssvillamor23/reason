@@ -1,1 +1,72 @@
-
+[
+    {
+      "ReasonID": "WEFAILL   ",
+      "Description": "Faulty Latches",
+      "TransactionType": "WGHO",
+      "GLCode": null,
+      "GLSubCode": null,
+      "BranchID": null,
+      "UseCOSGLCode": null,
+      "LabourID": null,
+      "SubType": null,
+      "ObjectType": null,
+      "ReportCode": null,
+      "ReportCode2": null
+    },
+    {
+      "ReasonID": "WEFAILLAR ",
+      "Description": "Faulty Latches and Ram",
+      "TransactionType": "WGHO",
+      "GLCode": null,
+      "GLSubCode": null,
+      "BranchID": null,
+      "UseCOSGLCode": null,
+      "LabourID": null,
+      "SubType": null,
+      "ObjectType": null,
+      "ReportCode": null,
+      "ReportCode2": null
+    },
+    {
+      "ReasonID": "WEFAILR   ",
+      "Description": "Faulty Ram Machine",
+      "TransactionType": "WGHO",
+      "GLCode": null,
+      "GLSubCode": null,
+      "BranchID": null,
+      "UseCOSGLCode": null,
+      "LabourID": null,
+      "SubType": null,
+      "ObjectType": null,
+      "ReportCode": null,
+      "ReportCode2": null
+    },
+    {
+      "ReasonID": "WEINACTARE",
+      "Description": "Inaccurate Tare",
+      "TransactionType": "WGHO",
+      "GLCode": null,
+      "GLSubCode": null,
+      "BranchID": null,
+      "UseCOSGLCode": null,
+      "LabourID": null,
+      "SubType": null,
+      "ObjectType": null,
+      "ReportCode": null,
+      "ReportCode2": null
+    },
+    {
+      "ReasonID": "WEINACWEIG",
+      "Description": "Inaccurate Weight",
+      "TransactionType": "WGHO",
+      "GLCode": null,
+      "GLSubCode": null,
+      "BranchID": null,
+      "UseCOSGLCode": null,
+      "LabourID": null,
+      "SubType": null,
+      "ObjectType": null,
+      "ReportCode": null,
+      "ReportCode2": null
+    }
+  ]
