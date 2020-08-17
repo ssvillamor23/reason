@@ -1,6 +1,6 @@
 [
     {
-      "ReasonID": "WEFAILL   ",
+      "ReasonID": "WEFAILL",
       "Description": "Faulty Latches",
       "TransactionType": "WGHO",
       "GLCode": null,
@@ -14,7 +14,7 @@
       "ReportCode2": null
     },
     {
-      "ReasonID": "WEFAILLAR ",
+      "ReasonID": "WEFAILLAR",
       "Description": "Faulty Latches and Ram",
       "TransactionType": "WGHO",
       "GLCode": null,
@@ -28,7 +28,7 @@
       "ReportCode2": null
     },
     {
-      "ReasonID": "WEFAILR   ",
+      "ReasonID": "WEFAILR",
       "Description": "Faulty Ram Machine",
       "TransactionType": "WGHO",
       "GLCode": null,
